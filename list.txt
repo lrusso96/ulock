@@ -1,3 +1,4 @@
-https://gangstermoleanywhere.com^$popup
-https://oensil.com^$popup
-http://visitsviolatedifficult.com^$popup
+||gangstermoleanywhere.com^$all
+||oensil.com^$all
+||visitsviolatedifficult.com^$all
+||thutes.com^$all
