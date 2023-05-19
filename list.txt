@@ -1,4 +1,5 @@
 ||gangstermoleanywhere.com^$all
+||kingrecommendation.com^$all
 ||oensil.com^$all
 ||visitsviolatedifficult.com^$all
 ||thutes.com^$all
